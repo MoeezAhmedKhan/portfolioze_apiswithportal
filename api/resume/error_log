@@ -1,0 +1,50 @@
+[29-Nov-2022 13:34:19 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli could not be converted to string in /home/sassolut/public_html/gupta/api/resume/resume_view.php:8780
+Stack trace:
+#0 {main}
+  thrown in /home/sassolut/public_html/gupta/api/resume/resume_view.php on line 8780
+[29-Nov-2022 14:15:06 UTC] PHP Warning:  Undefined array key "location" in /home/sassolut/public_html/gupta/api/resume/resume_view.php on line 8844
+[29-Nov-2022 14:15:06 UTC] PHP Warning:  Undefined array key "institute" in /home/sassolut/public_html/gupta/api/resume/resume_view.php on line 8850
+[06-Dec-2022 07:59:06 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/sassolut/public_html/gupta/api/resume/resume_view.php:8879
+Stack trace:
+#0 {main}
+  thrown in /home/sassolut/public_html/gupta/api/resume/resume_view.php on line 8879
+[06-Dec-2022 07:59:11 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/sassolut/public_html/gupta/api/resume/resume_view.php:8879
+Stack trace:
+#0 {main}
+  thrown in /home/sassolut/public_html/gupta/api/resume/resume_view.php on line 8879
+[06-Dec-2022 07:59:30 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/sassolut/public_html/gupta/api/resume/resume_view.php:8879
+Stack trace:
+#0 {main}
+  thrown in /home/sassolut/public_html/gupta/api/resume/resume_view.php on line 8879
+[06-Dec-2022 07:59:35 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/sassolut/public_html/gupta/api/resume/resume_view.php:8879
+Stack trace:
+#0 {main}
+  thrown in /home/sassolut/public_html/gupta/api/resume/resume_view.php on line 8879
+[29-Dec-2022 11:47:27 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/sassolut/public_html/gupta/api/resume/resume_view.php:8799
+Stack trace:
+#0 {main}
+  thrown in /home/sassolut/public_html/gupta/api/resume/resume_view.php on line 8799
+[29-Dec-2022 11:47:36 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/sassolut/public_html/gupta/api/resume/resume_view.php:8799
+Stack trace:
+#0 {main}
+  thrown in /home/sassolut/public_html/gupta/api/resume/resume_view.php on line 8799
+[12-Jan-2023 17:40:18 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/sassolut/public_html/gupta/api/resume/resume_view.php:8879
+Stack trace:
+#0 {main}
+  thrown in /home/sassolut/public_html/gupta/api/resume/resume_view.php on line 8879
+[12-Jan-2023 17:40:29 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/sassolut/public_html/gupta/api/resume/resume_view.php:8879
+Stack trace:
+#0 {main}
+  thrown in /home/sassolut/public_html/gupta/api/resume/resume_view.php on line 8879
+[14-Jan-2023 12:22:03 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/sassolut/public_html/gupta/api/resume/resume_view.php:8879
+Stack trace:
+#0 {main}
+  thrown in /home/sassolut/public_html/gupta/api/resume/resume_view.php on line 8879
+[14-Jan-2023 12:22:23 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/sassolut/public_html/gupta/api/resume/resume_view.php:8879
+Stack trace:
+#0 {main}
+  thrown in /home/sassolut/public_html/gupta/api/resume/resume_view.php on line 8879
+[20-Jan-2023 10:08:37 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/sassolut/public_html/gupta/api/resume/resume_view.php:8839
+Stack trace:
+#0 {main}
+  thrown in /home/sassolut/public_html/gupta/api/resume/resume_view.php on line 8839

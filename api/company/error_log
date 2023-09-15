@@ -1,0 +1,553 @@
+[09-Jan-2023 13:10:53 UTC] PHP Warning:  foreach() argument must be of type array|object, string given in /home/sassolut/public_html/gupta/api/company/addCreateGroup.php on line 19
+[09-Jan-2023 13:11:33 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/sassolut/public_html/gupta/api/company/addCreateGroup.php on line 19
+[09-Jan-2023 17:17:50 UTC] PHP Warning:  Undefined array key "token" in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 2
+[09-Jan-2023 17:18:26 UTC] PHP Warning:  Undefined array key "token" in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 2
+[09-Jan-2023 17:18:32 UTC] PHP Warning:  Undefined array key "token" in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 2
+[10-Jan-2023 14:21:18 UTC] PHP Warning:  Undefined array key "user_id" in /home/sassolut/public_html/gupta/api/company/sendGroupMessages.php on line 9
+[10-Jan-2023 14:21:18 UTC] PHP Warning:  Undefined array key "user_massage" in /home/sassolut/public_html/gupta/api/company/sendGroupMessages.php on line 10
+[10-Jan-2023 14:21:18 UTC] PHP Warning:  Undefined array key "group_id" in /home/sassolut/public_html/gupta/api/company/sendGroupMessages.php on line 11
+[10-Jan-2023 14:21:18 UTC] PHP Warning:  Undefined array key "data_type" in /home/sassolut/public_html/gupta/api/company/sendGroupMessages.php on line 12
+[10-Jan-2023 14:21:18 UTC] PHP Warning:  Undefined array key "data_uri" in /home/sassolut/public_html/gupta/api/company/sendGroupMessages.php on line 160
+[10-Jan-2023 14:21:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/sendGroupMessages.php on line 160
+[10-Jan-2023 14:21:18 UTC] PHP Warning:  Undefined array key 1 in /home/sassolut/public_html/gupta/api/company/sendGroupMessages.php on line 174
+[10-Jan-2023 14:21:18 UTC] PHP Warning:  Undefined array key "data_uri" in /home/sassolut/public_html/gupta/api/company/sendGroupMessages.php on line 177
+[10-Jan-2023 14:21:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/sendGroupMessages.php on line 177
+[10-Jan-2023 14:44:54 UTC] PHP Warning:  move_uploaded_file(Uploads/1673361894CHAT.png): Failed to open stream: No such file or directory in /home/sassolut/public_html/gupta/api/company/sendGroupMessages.php on line 84
+[10-Jan-2023 14:44:54 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpGSGnys&quot; to &quot;Uploads/1673361894CHAT.png&quot; in /home/sassolut/public_html/gupta/api/company/sendGroupMessages.php on line 84
+[10-Jan-2023 14:53:27 UTC] PHP Warning:  move_uploaded_file(Uploads/1673362407CHAT.png): Failed to open stream: No such file or directory in /home/sassolut/public_html/gupta/api/company/sendGroupMessages.php on line 84
+[10-Jan-2023 14:53:27 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpDLF26e&quot; to &quot;Uploads/1673362407CHAT.png&quot; in /home/sassolut/public_html/gupta/api/company/sendGroupMessages.php on line 84
+[11-Jan-2023 09:35:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[11-Jan-2023 09:35:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[11-Jan-2023 09:35:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[11-Jan-2023 09:35:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[11-Jan-2023 09:35:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[11-Jan-2023 09:35:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[11-Jan-2023 09:41:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[11-Jan-2023 09:41:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[11-Jan-2023 09:41:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[11-Jan-2023 09:41:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[11-Jan-2023 09:41:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[11-Jan-2023 09:41:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[11-Jan-2023 09:45:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[11-Jan-2023 09:45:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[11-Jan-2023 09:45:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[11-Jan-2023 09:47:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[11-Jan-2023 09:47:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[11-Jan-2023 09:47:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[11-Jan-2023 09:47:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[11-Jan-2023 09:47:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[11-Jan-2023 09:47:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[11-Jan-2023 09:48:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[11-Jan-2023 09:48:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[11-Jan-2023 09:48:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[11-Jan-2023 09:49:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[11-Jan-2023 09:49:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[11-Jan-2023 09:49:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[11-Jan-2023 09:50:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[11-Jan-2023 09:50:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[11-Jan-2023 09:50:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[11-Jan-2023 09:59:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[11-Jan-2023 09:59:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[11-Jan-2023 09:59:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[11-Jan-2023 09:59:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[11-Jan-2023 09:59:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[11-Jan-2023 09:59:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[11-Jan-2023 10:00:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[11-Jan-2023 10:00:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[11-Jan-2023 10:00:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[11-Jan-2023 10:02:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[11-Jan-2023 10:02:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[11-Jan-2023 10:02:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[11-Jan-2023 10:13:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[11-Jan-2023 10:13:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[11-Jan-2023 10:13:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[11-Jan-2023 10:15:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[11-Jan-2023 10:15:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[11-Jan-2023 10:15:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[11-Jan-2023 10:15:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[11-Jan-2023 10:15:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[11-Jan-2023 10:15:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[11-Jan-2023 10:16:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[11-Jan-2023 10:16:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[11-Jan-2023 10:16:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[11-Jan-2023 10:17:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[11-Jan-2023 10:17:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[11-Jan-2023 10:17:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[11-Jan-2023 10:19:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[11-Jan-2023 10:19:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[11-Jan-2023 10:19:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[11-Jan-2023 10:21:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[11-Jan-2023 10:21:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[11-Jan-2023 10:21:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[11-Jan-2023 10:26:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[11-Jan-2023 10:26:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[11-Jan-2023 10:26:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[11-Jan-2023 10:41:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[11-Jan-2023 10:41:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[11-Jan-2023 10:41:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[11-Jan-2023 11:44:39 UTC] PHP Warning:  Undefined variable $userid in /home/sassolut/public_html/gupta/api/company/addToTeam.php on line 75
+[11-Jan-2023 11:45:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[11-Jan-2023 11:45:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[11-Jan-2023 11:45:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[11-Jan-2023 11:45:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[11-Jan-2023 11:45:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[11-Jan-2023 11:45:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[11-Jan-2023 11:48:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[11-Jan-2023 11:48:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[11-Jan-2023 11:48:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[11-Jan-2023 11:48:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[11-Jan-2023 11:48:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[11-Jan-2023 11:48:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[11-Jan-2023 11:48:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[11-Jan-2023 11:48:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[11-Jan-2023 11:48:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[11-Jan-2023 11:48:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[11-Jan-2023 11:48:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[11-Jan-2023 11:48:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[11-Jan-2023 11:49:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[11-Jan-2023 11:49:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[11-Jan-2023 11:49:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[11-Jan-2023 11:49:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[11-Jan-2023 11:49:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[11-Jan-2023 11:49:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[11-Jan-2023 11:50:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[11-Jan-2023 11:50:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[11-Jan-2023 11:50:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[11-Jan-2023 11:50:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[11-Jan-2023 11:50:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[11-Jan-2023 11:50:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[11-Jan-2023 11:52:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[11-Jan-2023 11:52:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[11-Jan-2023 11:52:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[11-Jan-2023 11:52:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[11-Jan-2023 11:52:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[11-Jan-2023 11:52:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[11-Jan-2023 11:52:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[11-Jan-2023 11:52:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[11-Jan-2023 11:52:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[11-Jan-2023 11:52:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[11-Jan-2023 11:52:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[11-Jan-2023 11:52:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[11-Jan-2023 11:52:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[11-Jan-2023 11:52:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[11-Jan-2023 11:52:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[11-Jan-2023 11:52:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[11-Jan-2023 11:52:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[11-Jan-2023 11:52:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[11-Jan-2023 11:53:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[11-Jan-2023 11:53:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[11-Jan-2023 11:53:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[11-Jan-2023 11:53:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[11-Jan-2023 11:53:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[11-Jan-2023 11:53:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[11-Jan-2023 11:53:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[11-Jan-2023 11:53:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[11-Jan-2023 11:53:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[11-Jan-2023 11:53:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[11-Jan-2023 11:53:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[11-Jan-2023 11:53:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[11-Jan-2023 11:56:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[11-Jan-2023 11:56:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[11-Jan-2023 11:56:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[11-Jan-2023 11:57:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[11-Jan-2023 11:57:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[11-Jan-2023 11:57:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[11-Jan-2023 11:57:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[11-Jan-2023 11:57:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[11-Jan-2023 11:57:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[11-Jan-2023 11:57:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[11-Jan-2023 11:57:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[11-Jan-2023 11:57:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[11-Jan-2023 11:58:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[11-Jan-2023 11:58:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[11-Jan-2023 11:58:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[11-Jan-2023 11:59:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[11-Jan-2023 11:59:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[11-Jan-2023 11:59:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[11-Jan-2023 11:59:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[11-Jan-2023 11:59:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[11-Jan-2023 11:59:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[11-Jan-2023 11:59:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[11-Jan-2023 11:59:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[11-Jan-2023 11:59:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[11-Jan-2023 13:55:25 UTC] PHP Warning:  Undefined variable $userid in /home/sassolut/public_html/gupta/api/company/addToTeam.php on line 75
+[11-Jan-2023 13:57:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[11-Jan-2023 13:57:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[11-Jan-2023 13:57:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[11-Jan-2023 15:01:47 UTC] PHP Warning:  Undefined variable $userid in /home/sassolut/public_html/gupta/api/company/addToTeam.php on line 75
+[11-Jan-2023 15:01:51 UTC] PHP Warning:  Undefined variable $userid in /home/sassolut/public_html/gupta/api/company/addToTeam.php on line 75
+[11-Jan-2023 15:05:57 UTC] PHP Warning:  Undefined variable $userid in /home/sassolut/public_html/gupta/api/company/addToTeam.php on line 75
+[11-Jan-2023 15:14:52 UTC] PHP Warning:  Undefined variable $userid in /home/sassolut/public_html/gupta/api/company/addToTeam.php on line 78
+[11-Jan-2023 15:16:45 UTC] PHP Warning:  Undefined variable $userid in /home/sassolut/public_html/gupta/api/company/addToTeam.php on line 78
+[11-Jan-2023 15:18:13 UTC] PHP Warning:  Undefined variable $userid in /home/sassolut/public_html/gupta/api/company/addToTeam.php on line 78
+[12-Jan-2023 01:15:38 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 01:16:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[12-Jan-2023 01:16:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[12-Jan-2023 01:16:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[12-Jan-2023 01:16:20 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 01:17:31 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 01:17:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[12-Jan-2023 01:17:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[12-Jan-2023 01:17:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[12-Jan-2023 01:17:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[12-Jan-2023 01:17:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[12-Jan-2023 01:17:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[12-Jan-2023 01:17:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[12-Jan-2023 01:17:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[12-Jan-2023 01:17:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[12-Jan-2023 01:17:42 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 01:18:50 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 01:18:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[12-Jan-2023 01:18:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[12-Jan-2023 01:18:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[12-Jan-2023 01:18:55 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 01:18:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[12-Jan-2023 01:18:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[12-Jan-2023 01:18:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[12-Jan-2023 01:18:58 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 01:19:06 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 08:19:39 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 08:20:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[12-Jan-2023 08:20:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[12-Jan-2023 08:20:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[12-Jan-2023 08:20:02 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 08:20:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[12-Jan-2023 08:20:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[12-Jan-2023 08:20:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[12-Jan-2023 08:20:58 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 08:21:10 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 08:21:17 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 08:22:20 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 08:22:44 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 08:23:00 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 08:44:49 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 08:44:55 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 08:46:02 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 08:46:04 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 08:47:14 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 08:47:19 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 08:47:29 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 08:47:37 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 08:47:41 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 08:50:52 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 08:52:05 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 08:54:41 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 08:55:40 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 08:56:16 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 08:56:16 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 08:57:24 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 08:57:24 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 08:57:33 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 08:57:47 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 08:57:51 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 08:57:51 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 08:57:53 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 08:57:59 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 08:58:00 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 08:58:00 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 08:58:01 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 08:58:02 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 08:58:25 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 08:58:25 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 08:58:26 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 08:58:43 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 08:58:57 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 09:01:25 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 09:01:43 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 09:01:44 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 09:01:44 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 09:03:12 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 09:03:12 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 09:07:26 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 09:08:04 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 09:08:05 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 09:08:44 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 09:08:51 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 09:09:01 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 09:09:04 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 09:09:15 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 09:09:19 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 09:09:26 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 09:10:54 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 09:11:32 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 09:11:42 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 09:11:44 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 09:11:46 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 09:11:50 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 09:11:59 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 09:12:00 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 09:12:06 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 09:12:14 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 09:12:23 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 09:12:50 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 09:30:45 UTC] PHP Warning:  Undefined array key "token" in /home/sassolut/public_html/gupta/api/company/get_companies.php on line 2
+[12-Jan-2023 09:45:06 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 09:52:10 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 09:52:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[12-Jan-2023 09:52:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[12-Jan-2023 09:52:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[12-Jan-2023 09:53:30 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 09:55:39 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 09:56:05 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 09:57:33 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 09:58:27 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 10:00:12 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 10:02:19 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 10:07:00 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 10:09:46 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 10:10:01 UTC] PHP Warning:  Undefined variable $userid in /home/sassolut/public_html/gupta/api/company/send_request.php on line 63
+[12-Jan-2023 10:13:42 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 10:29:08 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 10:30:15 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 10:35:21 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 11:05:52 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 11:06:36 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 11:14:49 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 11:29:39 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 11:31:00 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 11:33:03 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 11:40:05 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 11:40:48 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 11:46:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'lsghvklSDJDK'LjVKLSD'VJdsK'LGDJSKLVDSJVNDKLSVJDSKLVJDSK'LVDJSVK'LDJSVK'LDSVJN...' at line 1 in /home/sassolut/public_html/gupta/api/company/add_about.php:17
+Stack trace:
+#0 /home/sassolut/public_html/gupta/api/company/add_about.php(17): mysqli_query()
+#1 {main}
+  thrown in /home/sassolut/public_html/gupta/api/company/add_about.php on line 17
+[12-Jan-2023 11:50:10 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 11:51:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '64'' at line 1 in /home/sassolut/public_html/gupta/api/company/add_about.php:17
+Stack trace:
+#0 /home/sassolut/public_html/gupta/api/company/add_about.php(17): mysqli_query()
+#1 {main}
+  thrown in /home/sassolut/public_html/gupta/api/company/add_about.php on line 17
+[12-Jan-2023 11:52:05 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 11:55:25 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 11:55:43 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 11:57:24 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 11:59:08 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 11:59:36 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 12:01:45 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 12:20:05 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 12:26:22 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 12:29:42 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 12:32:09 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 12:35:30 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 12:40:10 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 12:46:08 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 12:50:04 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 12:51:28 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 12:51:34 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 12:52:19 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 12:53:37 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 17:05:36 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 17:05:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[12-Jan-2023 17:05:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[12-Jan-2023 17:05:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[12-Jan-2023 17:06:59 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 17:09:07 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 17:10:47 UTC] PHP Warning:  Undefined variable $userid in /home/sassolut/public_html/gupta/api/company/addToTeam.php on line 78
+[12-Jan-2023 17:10:54 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 17:11:56 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 17:11:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 101
+[12-Jan-2023 17:11:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 110
+[12-Jan-2023 17:11:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 111
+[12-Jan-2023 17:13:25 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[12-Jan-2023 17:13:55 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[14-Jan-2023 08:56:10 UTC] PHP Warning:  Undefined variable $userid in /home/sassolut/public_html/gupta/api/company/addToTeam.php on line 78
+[14-Jan-2023 16:30:53 UTC] PHP Warning:  Undefined variable $userid in /home/sassolut/public_html/gupta/api/company/addToTeam.php on line 78
+[14-Jan-2023 16:32:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 58
+[14-Jan-2023 16:32:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 67
+[14-Jan-2023 16:32:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 68
+[16-Jan-2023 10:28:22 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[16-Jan-2023 10:29:23 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[16-Jan-2023 10:31:52 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[16-Jan-2023 10:32:49 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[16-Jan-2023 10:36:21 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[16-Jan-2023 10:36:42 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[16-Jan-2023 10:36:56 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[16-Jan-2023 19:54:39 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[16-Jan-2023 19:59:48 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[16-Jan-2023 20:02:52 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[16-Jan-2023 20:03:24 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[16-Jan-2023 20:09:09 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[16-Jan-2023 20:16:19 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[16-Jan-2023 20:16:38 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[16-Jan-2023 20:17:47 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[16-Jan-2023 20:19:28 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[16-Jan-2023 20:19:59 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[16-Jan-2023 20:21:21 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[16-Jan-2023 20:22:02 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[16-Jan-2023 20:22:25 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[17-Jan-2023 21:28:06 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[17-Jan-2023 21:36:23 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[17-Jan-2023 21:37:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[17-Jan-2023 21:37:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[17-Jan-2023 21:37:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[17-Jan-2023 21:37:49 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[17-Jan-2023 21:38:03 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[17-Jan-2023 21:40:39 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[17-Jan-2023 21:41:05 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[17-Jan-2023 21:50:46 UTC] PHP Warning:  Undefined variable $userid in /home/sassolut/public_html/gupta/api/company/addToTeam.php on line 78
+[17-Jan-2023 21:51:00 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[17-Jan-2023 21:51:12 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[17-Jan-2023 21:51:41 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[17-Jan-2023 21:51:52 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[17-Jan-2023 21:52:10 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[17-Jan-2023 21:52:26 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[17-Jan-2023 21:55:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 101
+[17-Jan-2023 21:55:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 110
+[17-Jan-2023 21:55:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 111
+[17-Jan-2023 22:04:14 UTC] PHP Warning:  Undefined variable $userid in /home/sassolut/public_html/gupta/api/company/addToTeam.php on line 78
+[17-Jan-2023 22:05:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 101
+[17-Jan-2023 22:05:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 110
+[17-Jan-2023 22:05:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_messages.php on line 111
+[20-Jan-2023 09:44:50 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[20-Jan-2023 09:48:01 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[20-Jan-2023 09:54:18 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[20-Jan-2023 09:54:40 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[20-Jan-2023 09:54:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[20-Jan-2023 09:54:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[20-Jan-2023 09:54:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[20-Jan-2023 09:55:23 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[20-Jan-2023 09:55:33 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[20-Jan-2023 09:55:41 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[20-Jan-2023 09:59:19 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[20-Jan-2023 09:59:37 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[20-Jan-2023 09:59:51 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[20-Jan-2023 10:35:21 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[20-Jan-2023 10:37:31 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[20-Jan-2023 10:37:43 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[20-Jan-2023 10:39:01 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[20-Jan-2023 10:39:10 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[20-Jan-2023 10:39:17 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[20-Jan-2023 10:39:22 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[20-Jan-2023 11:30:47 UTC] PHP Warning:  Undefined variable $userid in /home/sassolut/public_html/gupta/api/company/send_request.php on line 63
+[20-Jan-2023 21:03:42 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[20-Jan-2023 21:04:06 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[20-Jan-2023 21:05:29 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[20-Jan-2023 21:06:21 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[20-Jan-2023 21:06:51 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[20-Jan-2023 22:22:32 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[20-Jan-2023 22:23:47 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[20-Jan-2023 22:30:54 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[24-Jan-2023 11:25:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Jan-2023 11:25:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Jan-2023 11:25:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Jan-2023 11:25:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Jan-2023 11:25:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Jan-2023 11:25:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Jan-2023 11:26:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Jan-2023 11:26:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Jan-2023 11:26:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Jan-2023 11:26:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Jan-2023 11:26:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Jan-2023 11:26:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Jan-2023 11:36:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Jan-2023 11:36:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Jan-2023 11:36:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Jan-2023 11:38:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Jan-2023 11:38:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Jan-2023 11:38:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Jan-2023 11:48:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Jan-2023 11:48:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Jan-2023 11:48:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Jan-2023 12:37:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Jan-2023 12:37:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Jan-2023 12:37:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Jan-2023 12:42:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Jan-2023 12:42:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Jan-2023 12:42:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Jan-2023 12:44:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Jan-2023 12:44:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Jan-2023 12:44:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Jan-2023 12:45:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Jan-2023 12:45:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Jan-2023 12:45:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Jan-2023 12:46:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Jan-2023 12:46:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Jan-2023 12:46:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Jan-2023 12:56:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Jan-2023 12:56:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Jan-2023 12:56:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Jan-2023 12:59:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Jan-2023 12:59:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Jan-2023 12:59:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Jan-2023 13:39:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Jan-2023 13:39:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Jan-2023 13:39:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Jan-2023 14:06:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Jan-2023 14:06:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Jan-2023 14:06:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[07-Feb-2023 15:54:47 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/gupta/api/connection.php on line 8
+[07-Feb-2023 15:54:47 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/gupta/api/connection.php on line 8
+[07-Feb-2023 15:54:47 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[07-Feb-2023 15:54:48 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/gupta/api/connection.php on line 8
+[07-Feb-2023 15:55:38 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/gupta/api/connection.php on line 8
+[07-Feb-2023 15:55:40 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/gupta/api/connection.php on line 8
+[07-Feb-2023 15:55:40 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/gupta/api/connection.php on line 8
+[07-Feb-2023 15:55:41 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/gupta/api/connection.php on line 8
+[07-Feb-2023 15:55:41 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[07-Feb-2023 15:57:59 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/gupta/api/connection.php on line 8
+[07-Feb-2023 15:58:01 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/gupta/api/connection.php on line 8
+[07-Feb-2023 15:58:01 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[07-Feb-2023 15:58:01 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/gupta/api/connection.php on line 8
+[07-Feb-2023 15:58:01 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/gupta/api/connection.php on line 8
+[07-Feb-2023 15:58:21 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/gupta/api/connection.php on line 8
+[07-Feb-2023 15:58:25 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/gupta/api/connection.php on line 8
+[07-Feb-2023 15:58:25 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/gupta/api/connection.php on line 8
+[07-Feb-2023 15:58:25 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[07-Feb-2023 15:58:25 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/gupta/api/connection.php on line 8
+[07-Feb-2023 16:00:25 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/gupta/api/connection.php on line 8
+[07-Feb-2023 16:00:25 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/gupta/api/connection.php on line 8
+[07-Feb-2023 16:00:25 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[07-Feb-2023 16:00:25 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/gupta/api/connection.php on line 8
+[07-Feb-2023 16:03:35 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/gupta/api/connection.php on line 8
+[07-Feb-2023 16:03:36 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/gupta/api/connection.php on line 8
+[07-Feb-2023 16:03:36 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/gupta/api/connection.php on line 8
+[07-Feb-2023 16:03:36 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[07-Feb-2023 16:44:17 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/gupta/api/connection.php on line 8
+[07-Feb-2023 16:44:17 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/gupta/api/connection.php on line 8
+[07-Feb-2023 16:44:17 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/gupta/api/connection.php on line 8
+[07-Feb-2023 16:44:17 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[07-Feb-2023 16:45:40 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/gupta/api/connection.php on line 8
+[07-Feb-2023 16:45:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[07-Feb-2023 16:45:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[07-Feb-2023 16:45:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[07-Feb-2023 16:45:42 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/gupta/api/connection.php on line 8
+[07-Feb-2023 16:45:42 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[07-Feb-2023 16:45:42 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/gupta/api/connection.php on line 8
+[07-Feb-2023 16:45:42 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/gupta/api/connection.php on line 8
+[07-Feb-2023 16:45:43 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/gupta/api/connection.php on line 8
+[07-Feb-2023 16:47:53 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/gupta/api/connection.php on line 8
+[07-Feb-2023 16:47:53 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/gupta/api/connection.php on line 8
+[07-Feb-2023 16:47:53 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[07-Feb-2023 16:47:57 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/gupta/api/connection.php on line 8
+[07-Feb-2023 16:48:25 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/gupta/api/connection.php on line 8
+[07-Feb-2023 16:48:25 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/gupta/api/connection.php on line 8
+[07-Feb-2023 16:48:25 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/gupta/api/connection.php on line 8
+[09-Feb-2023 10:38:06 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/gupta/api/connection.php on line 8
+[09-Feb-2023 10:38:06 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/gupta/api/connection.php on line 8
+[09-Feb-2023 10:38:06 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/gupta/api/connection.php on line 8
+[09-Feb-2023 10:38:50 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/gupta/api/connection.php on line 8
+[09-Feb-2023 10:38:54 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/gupta/api/connection.php on line 8
+[09-Feb-2023 10:38:54 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/gupta/api/connection.php on line 8
+[13-Feb-2023 16:07:22 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/gupta/api/connection.php on line 8
+[13-Feb-2023 16:07:23 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/gupta/api/connection.php on line 8
+[13-Feb-2023 16:07:23 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/gupta/api/connection.php on line 8
+[13-Feb-2023 16:07:27 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/gupta/api/connection.php on line 8
+[13-Feb-2023 16:07:31 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/gupta/api/connection.php on line 8
+[13-Feb-2023 16:07:34 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/gupta/api/connection.php on line 8
+[13-Feb-2023 16:07:37 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/gupta/api/connection.php on line 8
+[13-Feb-2023 16:07:37 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/gupta/api/connection.php on line 8
+[13-Feb-2023 16:07:38 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/gupta/api/connection.php on line 8
+[24-Feb-2023 15:33:41 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[24-Feb-2023 15:33:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Feb-2023 15:33:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Feb-2023 15:33:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Feb-2023 15:33:51 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
+[24-Feb-2023 15:33:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Feb-2023 15:33:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Feb-2023 15:33:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Feb-2023 15:34:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Feb-2023 15:34:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[24-Feb-2023 15:34:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/sassolut/public_html/gupta/api/company/get_membership_details.php on line 39
+[22-Mar-2023 16:12:58 UTC] PHP Warning:  Undefined variable $data_array2 in /home/sassolut/public_html/gupta/api/company/get_analytics.php on line 44
